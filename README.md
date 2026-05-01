@@ -107,3 +107,4 @@ In `lib/analyzer.ts`: edit `SYSTEM_PROMPT` to bias the kinds of themes/angles Cl
 - The system prompt in `lib/analyzer.ts` is cached via Anthropic prompt caching for cheap reruns.
 - If your run returns "No reviews could be fetched", check the RapidAPI dashboard — the free tier rate-limits aggressively.
 # amazon-research
+# amazon-research
